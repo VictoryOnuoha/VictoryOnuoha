@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
 ### <div align="center">I'm Victory, a front-end web developer 👨‍💻 building since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on InWholeness Website Redesign and development  
+- 🔭 I’m currently working on InWholeness Website Redesign and development. Visit my portfolio website at victoryonuoha.com
   
 
 - 🌱 I’m currently learning SQL, Advanced CSS  
