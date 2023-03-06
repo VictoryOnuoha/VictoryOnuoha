@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Victory, a front-end web developer 👨‍💻 building since 2021 🚀</div>  
+### <div align="center">I'm Victory, a Product Manager & Designer 👨‍💻 building since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on InWholeness Website Redesign and development. Visit my portfolio website at victoryonuoha.com
