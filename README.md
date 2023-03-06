@@ -6,7 +6,7 @@
 ### <div align="center">I'm Victory, a Product Manager & Designer 👨‍💻 building since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on InWholeness Website Redesign and development. Visit my portfolio website at victoryonuoha.com
+- 🔭  Visit my portfolio website at victoryonuoha.com
   
 
 - 🌱 I’m currently learning SQL, Advanced CSS  
