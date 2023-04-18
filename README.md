@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Victory, a Product Manager & Designer 👨‍💻 building since 2021 🚀</div>  
+### <div align="center">I'm Victory, a Project Manager & Software Developer 👨‍💻 building since 2021 🚀</div>  
   
 
 - 🔭  Visit my portfolio website at victoryonuoha.com
