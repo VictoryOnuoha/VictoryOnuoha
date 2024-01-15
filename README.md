@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Victory, a Project Manager & Software Developer 👨‍💻 building since 2021 🚀</div>  
+### <div align="center">I'm Victory, a Project Manager building since 2021 🚀</div>  
   
 
 - 🔭  Visit my portfolio website at victoryonuoha.com
@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to react, css, javascript and how to make jollof rice in under 30 minutes  
   
 
-- ⚡ Fun fact: I love cooking, nature and wellness activities  
+- ⚡ Fun fact: I love cooking, reading and hiking (nature)  
   
 
 <br/>  
